@@ -6,7 +6,7 @@ weight : 10
 
 Generation Z is the generation born after [1996](https://twitter.com/PaoliCGPI/status/961121404048601088). Like all generation boundaries, their differences may be generalized and there will always be exceptions to this rule. That said, when viewed constructively, it represents an interesting mix of great values and digital capabilities.
 
-The older members of this generation (at the time of writing, 2018) are about 22 years old. They don't remember the 9/11 attackers, were 11 when the first iPhone came out (2007) and are the first real 'born online' generation. In parts of the world that are privileged enough to enjoy ubiquitous access to technology, many members of this generation have not experienced a world without ready access to the internet on some kind of device. This is the generation that is entering the job market right now.
+The older members of this generation (at the time of writing, 2018) are about 22 years old. They don't remember the 9/11 attackers, were 11 when the first iPhone came out (2007) and are the first real 'born online' generation. In parts of the world that are privileged enough to enjoy ubiquitous access to technology, many members of this generation have not experienced a world without ready access to the Internet on some kind of device. This is the generation that is entering the job market right now.
 
 I have personal experience of this generation, I have two daughters currently aged 13 and 15, and I have also been professionally involved in a number of projects focused on Generation Z. I've run sessions teaching UK high school kids how to 'hack' (in the ethical rather than illegal sense of the word) and even younger developers how to code so they would be able to apply their skills in real world scenarios.
 
@@ -28,4 +28,4 @@ How will I know if this book has succeded? I'm hopeful that the reader can enjoy
 
 If you are lucky enough to find yourself in this place, congratulations! You just found 'the zone'. An amazing mental place where you have the chance to be single minded and 100% absorbed. This is the best way to learn.
 
-Whenever you find yourself in this headspace, dont stop! Follow it as long as your brain allows it, and don't stop for anything. Social events, eating and sleeping can always wait (more or less; respect your physical and mental health and never take them for granted). The 'zone' is a magical place to be, so learn to recognize when you find yourself inside it, and use it to explore as much as you can.
+Whenever you find yourself in this headspace, don't stop! Follow it as long as your brain allows it, and don't stop for anything. Social events, eating and sleeping can always wait (more or less; respect your physical and mental health and never take them for granted). The 'zone' is a magical place to be, so learn to recognize when you find yourself inside it, and use it to explore as much as you can.
