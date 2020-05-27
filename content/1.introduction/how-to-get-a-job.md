@@ -6,11 +6,11 @@ weight : 20
 
 One of my objectives with this book is to help you to find a great job. One that you will love going to everyday; one where you are in for a steep learning curve and one that aligns what you are passionate about with what your employer is happy to pay for.
 
-It is very important to realise that if you are in a job (or school) where your learning curve is not off-the-charts, you are short-changing your life and your career. Nobody cares as much about your career as you do, and you are the only one that has full control over your attitude to learning. You can chose everyday on how engaged and receptive you are to learn and to be taught by others. It is not exaggeration to say that you decide your future's direction and path with every decision you make.
+It is very important to realise that if you are in a job (or school) where your learning curve is not off-the-charts, you are short-changing your life and your career. Nobody cares as much about your career as you do, and you are the only one that has full control over your attitude to learning. You can chose, everyday, how engaged and receptive you are to learn and to be taught by others. It is not exaggeration to say that you decide your future's direction and path with every decision you make.
 
-There is a lot of competition out there and if you look at what is coming next, namely AI and the next billion internet users, you'll need to maximise your chances and opportunities.
+There is a lot of competition out there and if you look at what is coming next, namely AI and the next billion Internet users, you'll need to maximise your chances and opportunities.
 
-I really like the Gen Z realisation that a job is something that should be rewarding and not just a way to make money. After all, the best job is when you are paid to do something that you would do for free. Although I am very fortunate to be in that situation, where I love my job and what I do every day, it didn't happen by accident. I made a number of key decisions in my life, some with very short-term negative implications, that allowed me to align what I love to do with what the market wants to pay.
+I really like the Gen Z realisation that a job is something that should be rewarding and not just a way to make money. After all, the best job is one where you are paid to do something that you would do for free. Although I am very fortunate to be in that situation, where I love my job and what I do every day, it didn't happen by accident. I made a number of key decisions in my life, some with very short-term negative implications, that allowed me to align what I love to do with what the market wants to pay.
 
 **Being passionate and loving your job**
 
@@ -30,6 +30,7 @@ The best way to get a job is to have ONE competitive advantage. One activity or 
 - Continuous Integration
 - AWS
 - WallabyJs
+- ['Web3'](https://lifeboat.com/ex/web.3.0)
 
 **Own your career development**
 
